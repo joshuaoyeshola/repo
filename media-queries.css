@@ -1,0 +1,277 @@
+/*************************
+        HOME
+*************************/
+
+@media screen and (max-width: 993px){
+	.homeNews, .h4Home {
+		width: 63%;
+	}
+}
+@media screen and (max-width: 768px){
+	.icon-bar {
+		background-color: #2ecc71 !important;
+	}
+	.navbar-toggle {
+		border: 1px solid #2ecc71 !important;
+	}
+	#navDrop {
+		text-align: left !important;
+		overflow: hidden !important;
+	}
+	.aNavA, #teamLi {
+		position: relative;
+		width: 20% !important;
+	}
+	#teamUl {
+		left: 80px !important;
+		top: -15px !important;
+		position: relative;
+	}
+	.navBar {
+	background-color: rgba(169,169,169, 0.6);
+	}
+}
+@media screen and (max-width: 500px){
+	.homeNews, .h4Home {
+		width: 100%;
+	}
+}
+
+/*************************
+        ABOUT US
+*************************/
+
+@media screen and (max-width: 990px){
+	.colChooseUs1 {
+		margin-bottom: 30px;
+	}
+}
+@media screen and (max-width: 768px){
+	.chooseUs {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+	.colChooseUs2 {
+		margin-bottom: 30px;
+	}
+}
+@media screen and (max-width: 400px){
+	.chooseUs {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
+
+/*************************
+        SERVICES
+*************************/
+
+@media screen and (max-width: 990px){
+	#colRadiology, #colCardiology {
+		margin-bottom: 100px;
+	}
+}
+@media screen and (max-width: 768px){
+	.rowServices {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+	#colLaboratory {
+		margin-bottom: 100px;
+	}
+	.white_content {
+		width: 90% !important;
+		left: 5%;
+	}
+}
+@media screen and (max-width: 450px){
+	.rowServices {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
+
+/*************************
+        TEAM
+*************************/
+
+@media screen and (max-width: 1200px){
+	.teamMember {
+		height: 200px;
+	}
+}
+@media screen and (max-width: 990px){
+	.colTeam {
+		margin-bottom: 30px;
+	}
+	.teamMember {
+		height: 280px;
+	}
+}
+@media screen and (max-width: 768px){
+	.colTeam1 {
+		margin-bottom: 30px;
+	}
+	.rowTeam {
+		padding-left: 150px;
+		padding-right: 150px;
+	}
+}
+@media screen and (max-width: 650px){
+	.rowTeam {
+		padding-left: 120px;
+		padding-right: 120px;
+	}
+}
+@media screen and (max-width: 580px){
+	.rowTeam {
+		padding-left: 90px;
+		padding-right: 90px;
+	}
+}
+@media screen and (max-width: 500px){
+	.rowTeam {
+		padding-left: 60px;
+		padding-right: 60px;
+	}
+}
+@media screen and (max-width: 450px){
+	.rowTeam {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+}
+@media screen and (max-width: 380px){
+	.rowTeam {
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+}
+@media screen and (max-width: 320px){
+	.teamMember {
+		height: 230px;
+	}
+}
+
+/********************************
+           TESTIMONIALS
+********************************/
+
+@media screen and (max-width: 1400px){
+	.imageCarouselTestimonials {
+ 		 width: 15% !important;
+	}
+}
+@media screen and (max-width: 900px){
+	.imageCarouselTestimonials {
+ 		 width: 20% !important;
+	}
+}
+@media screen and (max-width: 650px){
+	.imageCarouselTestimonials {
+ 		 width: 25% !important;
+	}
+}
+@media screen and (max-width: 550px){
+	.imageCarouselTestimonials {
+ 		 width: 30% !important;
+	}
+	.pTestimonials1 {
+		width: 100%;
+	}
+}
+@media screen and (max-width: 450px){
+	.imageCarouselTestimonials {
+ 		 width: 35% !important;
+	}
+}
+@media screen and (max-width: 360px){
+	.imageCarouselTestimonials {
+ 		 width: 40% !important;
+	}
+}
+
+/********************************
+           BLOG
+********************************/
+
+@media screen and (max-width: 1200px){
+	.BBlog {
+		width: 40%;
+	}
+}
+@media screen and (max-width: 990px){
+	.pBlog {
+		width: 90%;
+	}
+	.BBlog {
+		width: 30%;
+	}
+}
+@media screen and (max-width: 600px){
+	.BBlog {
+		width: 45%;
+	}
+}
+@media screen and (max-width: 440px){
+	.BBlog {
+		width: 50%;
+	}
+	.pBlog {
+		width: 100%;
+	}
+}
+@media screen and (max-width: 370px){
+	.BBlog {
+		width: 70%;
+	}
+}
+
+/********************************
+           CONTACT
+********************************/
+
+@media screen and (max-width: 1200px){
+	.form-box {
+		padding-right: 0px !important;
+	}
+}
+@media screen and (max-width: 950px){
+	.form-box {
+		padding-left: 50px !important;
+	}
+}
+@media screen and (max-width: 850px){
+	.input-group {
+		width: 90%;
+	}
+	.horizontalLine {
+		width: 90%;
+	}
+}
+@media screen and (max-width: 690px){
+	.form-box {
+		position: relative;
+		width: 100%;
+		height: auto;
+		padding: 30px 0;
+	}
+}
+@media screen and (max-width: 350px){
+	.input-group-addon{
+		font-size: 13px !important;
+	}
+}
+
+/********************************
+           FOOTER
+********************************/
+
+@media screen and (max-width: 555px){
+	.iconPosition {
+		float: left;
+	}
+	.footer p {
+		display: block;
+	}
+}
